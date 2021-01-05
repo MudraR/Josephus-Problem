@@ -1,1 +1,5 @@
 While learning about recursive structures, I stumbled apon the Josephus Problem.
+
+In Python, I will solve the problem using a Binary Trick.
+
+The Binary "Trick" is a simple rule as follows:
